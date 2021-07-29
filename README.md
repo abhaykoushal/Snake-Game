@@ -25,3 +25,12 @@ hard mode.
 ## MOVEMENTS OF THE SNAKE
 ----------------------------
 ![](1.png)
+
+## MODES
+----------------------------
+Different modes in the game:
+1. BEGINNER
+2. EASY
+3. MEDIUM
+4. HARD
+
