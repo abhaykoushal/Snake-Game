@@ -24,4 +24,4 @@ hard mode.
 
 ## MOVEMENTS OF THE SNAKE
 ----------------------------
-![](images/1.png)
+![](1.png)
