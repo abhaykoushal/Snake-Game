@@ -26,6 +26,8 @@ hard mode.
 ----------------------------
 ![](1.png)
 
+![](2.png)
+
 ## MODES
 ----------------------------
 Different modes in the game:
